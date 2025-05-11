@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A2sxulVMlso=",
+  "success": true,
+  "projectFilePath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Starbuzz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

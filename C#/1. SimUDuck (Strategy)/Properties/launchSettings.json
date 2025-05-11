@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SimUDuck": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

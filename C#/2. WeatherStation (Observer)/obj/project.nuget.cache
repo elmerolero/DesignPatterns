@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7untoRpyp0k=",
+  "success": true,
+  "projectFilePath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\WeatherStation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ismas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

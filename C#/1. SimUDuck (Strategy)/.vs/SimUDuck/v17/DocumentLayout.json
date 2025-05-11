@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\classes\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:classes\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\classes\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:classes\\mallardduck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\interfaces\\iquackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:interfaces\\iquackbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\classes\\flywithwings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:classes\\flywithwings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\classes\\quack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:classes\\quack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\classes\\squeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:classes\\squeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\classes\\mutequack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:classes\\mutequack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\classes\\flynoway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:classes\\flynoway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\simuduck\\interfaces\\iflybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBD3BE94-55D2-4D8B-B435-B2A2689C5C02}|SimUDuck.csproj|solutionrelative:interfaces\\iflybehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MallardDuck.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\MallardDuck.cs",
+              "RelativeDocumentMoniker": "Classes\\MallardDuck.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\MallardDuck.cs",
+              "RelativeToolTip": "Classes\\MallardDuck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:32:16.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Squeak.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\Squeak.cs",
+              "RelativeDocumentMoniker": "Classes\\Squeak.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\Squeak.cs",
+              "RelativeToolTip": "Classes\\Squeak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:31:00.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MuteQuack.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\MuteQuack.cs",
+              "RelativeDocumentMoniker": "Classes\\MuteQuack.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\MuteQuack.cs",
+              "RelativeToolTip": "Classes\\MuteQuack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:29:54.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quack.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\Quack.cs",
+              "RelativeDocumentMoniker": "Classes\\Quack.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\Quack.cs",
+              "RelativeToolTip": "Classes\\Quack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:28:14.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuackBehavior.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Interfaces\\IQuackBehavior.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IQuackBehavior.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Interfaces\\IQuackBehavior.cs",
+              "RelativeToolTip": "Interfaces\\IQuackBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:25:07.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlyNoWay.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\FlyNoWay.cs",
+              "RelativeDocumentMoniker": "Classes\\FlyNoWay.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\FlyNoWay.cs",
+              "RelativeToolTip": "Classes\\FlyNoWay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:21:59.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlyWithWings.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\FlyWithWings.cs",
+              "RelativeDocumentMoniker": "Classes\\FlyWithWings.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\FlyWithWings.cs",
+              "RelativeToolTip": "Classes\\FlyWithWings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:20:15.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\Duck.cs",
+              "RelativeDocumentMoniker": "Classes\\Duck.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Classes\\Duck.cs",
+              "RelativeToolTip": "Classes\\Duck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:15:18.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:14:00.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFlyBehavior.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Interfaces\\IFlyBehavior.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IFlyBehavior.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\SimUDuck\\Interfaces\\IFlyBehavior.cs",
+              "RelativeToolTip": "Interfaces\\IFlyBehavior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T04:19:17.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

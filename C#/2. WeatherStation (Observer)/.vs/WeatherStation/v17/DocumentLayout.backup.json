@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\weatherstation\\classes\\currentconditionsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|solutionrelative:classes\\currentconditionsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\weatherstation\\classes\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|solutionrelative:classes\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\weatherstation\\weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|solutionrelative:weatherstation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\weatherstation\\interfaces\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|solutionrelative:interfaces\\iobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\weatherstation\\interfaces\\idisplayelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|solutionrelative:interfaces\\idisplayelement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\weatherstation\\interfaces\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBC1B887-21F3-427F-A2B4-2FB38558C82F}|WeatherStation.csproj|solutionrelative:interfaces\\isubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISubject.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Interfaces\\ISubject.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISubject.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Interfaces\\ISubject.cs",
+              "RelativeToolTip": "Interfaces\\ISubject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:39:39.164Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CurrentConditionsDisplay.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Classes\\CurrentConditionsDisplay.cs",
+              "RelativeDocumentMoniker": "Classes\\CurrentConditionsDisplay.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Classes\\CurrentConditionsDisplay.cs",
+              "RelativeToolTip": "Classes\\CurrentConditionsDisplay.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T05:00:02.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Classes\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Classes\\WeatherData.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Classes\\WeatherData.cs",
+              "RelativeToolTip": "Classes\\WeatherData.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAtwBQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:47:28.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDisplayElement.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Interfaces\\IDisplayElement.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IDisplayElement.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Interfaces\\IDisplayElement.cs",
+              "RelativeToolTip": "Interfaces\\IDisplayElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:42:51.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IObserver.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Interfaces\\IObserver.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IObserver.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\Interfaces\\IObserver.cs",
+              "RelativeToolTip": "Interfaces\\IObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:41:40.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherStation.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\WeatherStation.cs",
+              "RelativeDocumentMoniker": "WeatherStation.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\WeatherStation\\WeatherStation.cs",
+              "RelativeToolTip": "WeatherStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T04:38:36.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

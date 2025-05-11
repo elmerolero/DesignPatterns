@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\3. starbuzz (decorator)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\3. starbuzz (decorator)\\classes\\soy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|solutionrelative:classes\\soy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\3. starbuzz (decorator)\\classes\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|solutionrelative:classes\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\3. starbuzz (decorator)\\classes\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|solutionrelative:classes\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\3. starbuzz (decorator)\\classes\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|solutionrelative:classes\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\3. starbuzz (decorator)\\classes\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|solutionrelative:classes\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\3. starbuzz (decorator)\\classes\\houseblend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|solutionrelative:classes\\houseblend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\3. starbuzz (decorator)\\classes\\darkroast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|solutionrelative:classes\\darkroast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\3. starbuzz (decorator)\\classes\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86217E9F-9AF8-41BC-B556-CDF85E6A32E9}|Starbuzz.csproj|solutionrelative:classes\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Soy.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Soy.cs",
+              "RelativeDocumentMoniker": "Classes\\Soy.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Soy.cs",
+              "RelativeToolTip": "Classes\\Soy.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:42:54.84Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:47:31.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Whip.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Whip.cs",
+              "RelativeDocumentMoniker": "Classes\\Whip.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Whip.cs",
+              "RelativeToolTip": "Classes\\Whip.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:39:30.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mocha.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Mocha.cs",
+              "RelativeDocumentMoniker": "Classes\\Mocha.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Mocha.cs",
+              "RelativeToolTip": "Classes\\Mocha.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:59:12.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DarkRoast.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\DarkRoast.cs",
+              "RelativeDocumentMoniker": "Classes\\DarkRoast.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\DarkRoast.cs",
+              "RelativeToolTip": "Classes\\DarkRoast.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T18:35:31.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HouseBlend.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\HouseBlend.cs",
+              "RelativeDocumentMoniker": "Classes\\HouseBlend.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\HouseBlend.cs",
+              "RelativeToolTip": "Classes\\HouseBlend.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:56:51.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Espresso.cs",
+              "RelativeDocumentMoniker": "Classes\\Espresso.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Espresso.cs",
+              "RelativeToolTip": "Classes\\Espresso.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:53:13.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CondimentDecorator.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\CondimentDecorator.cs",
+              "RelativeDocumentMoniker": "Classes\\CondimentDecorator.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\CondimentDecorator.cs",
+              "RelativeToolTip": "Classes\\CondimentDecorator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:50:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Beverage.cs",
+              "RelativeDocumentMoniker": "Classes\\Beverage.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\3. Starbuzz (Decorator)\\Classes\\Beverage.cs",
+              "RelativeToolTip": "Classes\\Beverage.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T04:48:22.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

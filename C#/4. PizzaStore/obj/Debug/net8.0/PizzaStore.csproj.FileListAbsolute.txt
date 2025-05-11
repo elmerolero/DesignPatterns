@@ -1,0 +1,14 @@
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\obj\Debug\net8.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfoInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\obj\Debug\net8.0\PizzaStore.AssemblyInfo.cs
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\obj\Debug\net8.0\PizzaStore.csproj.CoreCompileInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\bin\Debug\net8.0\PizzaStore.exe
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\bin\Debug\net8.0\PizzaStore.deps.json
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\bin\Debug\net8.0\PizzaStore.runtimeconfig.json
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\bin\Debug\net8.0\PizzaStore.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\bin\Debug\net8.0\PizzaStore.pdb
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\obj\Debug\net8.0\PizzaStore.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\obj\Debug\net8.0\refint\PizzaStore.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\obj\Debug\net8.0\PizzaStore.pdb
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\obj\Debug\net8.0\PizzaStore.genruntimeconfig.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\PizzaStore\obj\Debug\net8.0\ref\PizzaStore.dll

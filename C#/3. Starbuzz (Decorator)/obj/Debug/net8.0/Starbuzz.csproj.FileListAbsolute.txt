@@ -1,0 +1,28 @@
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\obj\Debug\net8.0\Starbuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\obj\Debug\net8.0\Starbuzz.AssemblyInfoInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\obj\Debug\net8.0\Starbuzz.AssemblyInfo.cs
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\obj\Debug\net8.0\Starbuzz.csproj.CoreCompileInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\bin\Debug\net8.0\Starbuzz.exe
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\bin\Debug\net8.0\Starbuzz.deps.json
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\bin\Debug\net8.0\Starbuzz.runtimeconfig.json
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\bin\Debug\net8.0\Starbuzz.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\bin\Debug\net8.0\Starbuzz.pdb
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\obj\Debug\net8.0\Starbuzz.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\obj\Debug\net8.0\refint\Starbuzz.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\obj\Debug\net8.0\Starbuzz.pdb
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\obj\Debug\net8.0\Starbuzz.genruntimeconfig.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\Starbuzz\obj\Debug\net8.0\ref\Starbuzz.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\bin\Debug\net8.0\Starbuzz.exe
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\bin\Debug\net8.0\Starbuzz.deps.json
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\bin\Debug\net8.0\Starbuzz.runtimeconfig.json
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\bin\Debug\net8.0\Starbuzz.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\bin\Debug\net8.0\Starbuzz.pdb
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\obj\Debug\net8.0\Starbuzz.GeneratedMSBuildEditorConfig.editorconfig
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\obj\Debug\net8.0\Starbuzz.AssemblyInfoInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\obj\Debug\net8.0\Starbuzz.AssemblyInfo.cs
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\obj\Debug\net8.0\Starbuzz.csproj.CoreCompileInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\obj\Debug\net8.0\Starbuzz.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\obj\Debug\net8.0\refint\Starbuzz.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\obj\Debug\net8.0\Starbuzz.pdb
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\obj\Debug\net8.0\Starbuzz.genruntimeconfig.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\3. Starbuzz (Decorator)\obj\Debug\net8.0\ref\Starbuzz.dll

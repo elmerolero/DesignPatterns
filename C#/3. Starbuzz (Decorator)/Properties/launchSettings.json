@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Starbuzz": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

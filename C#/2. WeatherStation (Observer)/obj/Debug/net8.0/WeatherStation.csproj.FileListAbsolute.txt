@@ -1,0 +1,14 @@
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\bin\Debug\net8.0\WeatherStation.exe
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\bin\Debug\net8.0\WeatherStation.deps.json
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\bin\Debug\net8.0\WeatherStation.runtimeconfig.json
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\bin\Debug\net8.0\WeatherStation.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\bin\Debug\net8.0\WeatherStation.pdb
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\obj\Debug\net8.0\WeatherStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\obj\Debug\net8.0\WeatherStation.AssemblyInfoInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\obj\Debug\net8.0\WeatherStation.AssemblyInfo.cs
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\obj\Debug\net8.0\WeatherStation.csproj.CoreCompileInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\obj\Debug\net8.0\WeatherStation.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\obj\Debug\net8.0\refint\WeatherStation.dll
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\obj\Debug\net8.0\WeatherStation.pdb
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\obj\Debug\net8.0\WeatherStation.genruntimeconfig.cache
+D:\msys\home\ismas\Documentos\Proyectos\DesignPatterns\C#\WeatherStation\obj\Debug\net8.0\ref\WeatherStation.dll
