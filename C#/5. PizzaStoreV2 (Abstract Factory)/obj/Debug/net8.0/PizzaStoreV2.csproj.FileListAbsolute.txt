@@ -1,0 +1,14 @@
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\obj\Debug\net8.0\PizzaStoreV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\obj\Debug\net8.0\PizzaStoreV2.AssemblyInfoInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\obj\Debug\net8.0\PizzaStoreV2.AssemblyInfo.cs
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\obj\Debug\net8.0\PizzaStoreV2.csproj.CoreCompileInputs.cache
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\bin\Debug\net8.0\PizzaStoreV2.exe
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\bin\Debug\net8.0\PizzaStoreV2.deps.json
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\bin\Debug\net8.0\PizzaStoreV2.runtimeconfig.json
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\bin\Debug\net8.0\PizzaStoreV2.dll
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\bin\Debug\net8.0\PizzaStoreV2.pdb
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\obj\Debug\net8.0\PizzaStoreV2.dll
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\obj\Debug\net8.0\refint\PizzaStoreV2.dll
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\obj\Debug\net8.0\PizzaStoreV2.pdb
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\obj\Debug\net8.0\PizzaStoreV2.genruntimeconfig.cache
+D:\msys\home\ismas\Documentos\Proyectos\PizzaStoreV2\obj\Debug\net8.0\ref\PizzaStoreV2.dll
