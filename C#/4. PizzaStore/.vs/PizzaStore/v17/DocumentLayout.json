@@ -1,69 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\",
+  "WorkspaceRootPath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\pizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\pizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\chicago pizza store\\chicagostylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\chicago pizza store\\chicagostylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\california pizza store\\californiapizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiapizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\new york pizza store\\nypizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\new york pizza store\\nypizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\chicago pizza store\\chicagopizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\chicago pizza store\\chicagopizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\california pizza store\\californiastyleclampizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiastyleclampizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\new york pizza store\\nystylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\new york pizza store\\nystylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\california pizza store\\californiastyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiastyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\california pizza store\\californiastylepepperonipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiastylepepperonipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\california pizza store\\californiastylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiastylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\chicago pizza store\\chicagostyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\chicago pizza store\\chicagostyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\chicago pizza store\\chicagostyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\chicago pizza store\\chicagostyleclampizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\pizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\pizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\chicago pizza store\\chicagostylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\chicago pizza store\\chicagostylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\california pizza store\\californiapizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiapizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\new york pizza store\\nypizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\new york pizza store\\nypizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\chicago pizza store\\chicagopizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\chicago pizza store\\chicagopizzastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\california pizza store\\californiastyleclampizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiastyleclampizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\new york pizza store\\nystylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\new york pizza store\\nystylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\california pizza store\\californiastyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiastyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\california pizza store\\californiastylepepperonipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiastylepepperonipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\california pizza store\\californiastylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\california pizza store\\californiastylecheesepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\chicago pizza store\\chicagostyleclampizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\chicago pizza store\\chicagostyleclampizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\new york pizza store\\nystyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\new york pizza store\\nystyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\new york pizza store\\nystyleveggiepizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\pizzastore\\classes\\simplepizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|d:\\msys\\home\\ismas\\documentos\\proyectos\\designpatterns\\c#\\4. pizzastore\\classes\\simplepizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9706468-0769-435A-BBE4-386A98C724D6}|PizzaStore.csproj|solutionrelative:classes\\simplepizzafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -74,93 +74,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChicagoPizzaStore.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoPizzaStore.cs",
-              "RelativeDocumentMoniker": "Classes\\Chicago Pizza Store\\ChicagoPizzaStore.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoPizzaStore.cs",
-              "RelativeToolTip": "Classes\\Chicago Pizza Store\\ChicagoPizzaStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T01:43:08.514Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ChicagoStyleCheesePizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleCheesePizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleCheesePizza.cs",
               "RelativeDocumentMoniker": "Classes\\Chicago Pizza Store\\ChicagoStyleCheesePizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleCheesePizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleCheesePizza.cs",
               "RelativeToolTip": "Classes\\Chicago Pizza Store\\ChicagoStyleCheesePizza.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T01:26:22.527Z",
+              "WhenOpened": "2025-05-04T01:26:22.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CaliforniaStyleClamPizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleClamPizza.cs",
+              "RelativeDocumentMoniker": "Classes\\California Pizza Store\\CaliforniaStyleClamPizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleClamPizza.cs",
+              "RelativeToolTip": "Classes\\California Pizza Store\\CaliforniaStyleClamPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:51:20.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChicagoStyleVeggiePizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleVeggiePizza.cs",
+              "RelativeDocumentMoniker": "Classes\\Chicago Pizza Store\\ChicagoStyleVeggiePizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleVeggiePizza.cs",
+              "RelativeToolTip": "Classes\\Chicago Pizza Store\\ChicagoStyleVeggiePizza.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:47:47.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CaliforniaStyleClamPizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleClamPizza.cs",
-              "RelativeDocumentMoniker": "Classes\\California Pizza Store\\CaliforniaStyleClamPizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleClamPizza.cs",
-              "RelativeToolTip": "Classes\\California Pizza Store\\CaliforniaStyleClamPizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Title": "ChicagoPizzaStore.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoPizzaStore.cs",
+              "RelativeDocumentMoniker": "Classes\\Chicago Pizza Store\\ChicagoPizzaStore.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoPizzaStore.cs",
+              "RelativeToolTip": "Classes\\Chicago Pizza Store\\ChicagoPizzaStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:51:20.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T01:43:08.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CaliforniaPizzaStore.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaPizzaStore.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaPizzaStore.cs",
               "RelativeDocumentMoniker": "Classes\\California Pizza Store\\CaliforniaPizzaStore.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaPizzaStore.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaPizzaStore.cs",
               "RelativeToolTip": "Classes\\California Pizza Store\\CaliforniaPizzaStore.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:49:30.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T00:49:30.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaStore.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\PizzaStore.cs",
+              "RelativeDocumentMoniker": "Classes\\PizzaStore.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\PizzaStore.cs",
+              "RelativeToolTip": "Classes\\PizzaStore.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:32:59.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:30:57.463Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PizzaStore.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\PizzaStore.cs",
-              "RelativeDocumentMoniker": "Classes\\PizzaStore.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\PizzaStore.cs",
-              "RelativeToolTip": "Classes\\PizzaStore.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:32:59.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:30:57.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Pizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Pizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Pizza.cs",
               "RelativeDocumentMoniker": "Classes\\Pizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Pizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Pizza.cs",
               "RelativeToolTip": "Classes\\Pizza.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAAwCAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -169,120 +176,99 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "NYPizzaStore.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\New York Pizza Store\\NYPizzaStore.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\New York Pizza Store\\NYPizzaStore.cs",
               "RelativeDocumentMoniker": "Classes\\New York Pizza Store\\NYPizzaStore.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\New York Pizza Store\\NYPizzaStore.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\New York Pizza Store\\NYPizzaStore.cs",
               "RelativeToolTip": "Classes\\New York Pizza Store\\NYPizzaStore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:37:40.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CaliforniaStyleVeggiePizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleVeggiePizza.cs",
-              "RelativeDocumentMoniker": "Classes\\California Pizza Store\\CaliforniaStyleVeggiePizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleVeggiePizza.cs",
-              "RelativeToolTip": "Classes\\California Pizza Store\\CaliforniaStyleVeggiePizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:52:16.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NYStyleCheesePizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\New York Pizza Store\\NYStyleCheesePizza.cs",
-              "RelativeDocumentMoniker": "Classes\\New York Pizza Store\\NYStyleCheesePizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\New York Pizza Store\\NYStyleCheesePizza.cs",
-              "RelativeToolTip": "Classes\\New York Pizza Store\\NYStyleCheesePizza.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:39:37.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T00:37:40.548Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "CaliforniaStylePepperoniPizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaStylePepperoniPizza.cs",
-              "RelativeDocumentMoniker": "Classes\\California Pizza Store\\CaliforniaStylePepperoniPizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaStylePepperoniPizza.cs",
-              "RelativeToolTip": "Classes\\California Pizza Store\\CaliforniaStylePepperoniPizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "CaliforniaStyleVeggiePizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleVeggiePizza.cs",
+              "RelativeDocumentMoniker": "Classes\\California Pizza Store\\CaliforniaStyleVeggiePizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleVeggiePizza.cs",
+              "RelativeToolTip": "Classes\\California Pizza Store\\CaliforniaStyleVeggiePizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:51:50.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T00:52:16.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NYStyleCheesePizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\New York Pizza Store\\NYStyleCheesePizza.cs",
+              "RelativeDocumentMoniker": "Classes\\New York Pizza Store\\NYStyleCheesePizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\New York Pizza Store\\NYStyleCheesePizza.cs",
+              "RelativeToolTip": "Classes\\New York Pizza Store\\NYStyleCheesePizza.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T00:39:37.179Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "CaliforniaStyleCheesePizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleCheesePizza.cs",
-              "RelativeDocumentMoniker": "Classes\\California Pizza Store\\CaliforniaStyleCheesePizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleCheesePizza.cs",
-              "RelativeToolTip": "Classes\\California Pizza Store\\CaliforniaStyleCheesePizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Title": "CaliforniaStylePepperoniPizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaStylePepperoniPizza.cs",
+              "RelativeDocumentMoniker": "Classes\\California Pizza Store\\CaliforniaStylePepperoniPizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaStylePepperoniPizza.cs",
+              "RelativeToolTip": "Classes\\California Pizza Store\\CaliforniaStylePepperoniPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:50:43.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T00:51:50.571Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ChicagoStyleVeggiePizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleVeggiePizza.cs",
-              "RelativeDocumentMoniker": "Classes\\Chicago Pizza Store\\ChicagoStyleVeggiePizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleVeggiePizza.cs",
-              "RelativeToolTip": "Classes\\Chicago Pizza Store\\ChicagoStyleVeggiePizza.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Title": "CaliforniaStyleCheesePizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleCheesePizza.cs",
+              "RelativeDocumentMoniker": "Classes\\California Pizza Store\\CaliforniaStyleCheesePizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\California Pizza Store\\CaliforniaStyleCheesePizza.cs",
+              "RelativeToolTip": "Classes\\California Pizza Store\\CaliforniaStyleCheesePizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:47:47.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T00:50:43.388Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ChicagoStyleClamPizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleClamPizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleClamPizza.cs",
               "RelativeDocumentMoniker": "Classes\\Chicago Pizza Store\\ChicagoStyleClamPizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleClamPizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\Chicago Pizza Store\\ChicagoStyleClamPizza.cs",
               "RelativeToolTip": "Classes\\Chicago Pizza Store\\ChicagoStyleClamPizza.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:46:38.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T00:46:38.602Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "NYStyleVeggiePizza.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\New York Pizza Store\\NYStyleVeggiePizza.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\New York Pizza Store\\NYStyleVeggiePizza.cs",
               "RelativeDocumentMoniker": "Classes\\New York Pizza Store\\NYStyleVeggiePizza.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\New York Pizza Store\\NYStyleVeggiePizza.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\New York Pizza Store\\NYStyleVeggiePizza.cs",
               "RelativeToolTip": "Classes\\New York Pizza Store\\NYStyleVeggiePizza.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:41:45.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T00:41:45.075Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "SimplePizzaFactory.cs",
-              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\SimplePizzaFactory.cs",
+              "DocumentMoniker": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\SimplePizzaFactory.cs",
               "RelativeDocumentMoniker": "Classes\\SimplePizzaFactory.cs",
-              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\Classes\\SimplePizzaFactory.cs",
+              "ToolTip": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\Classes\\SimplePizzaFactory.cs",
               "RelativeToolTip": "Classes\\SimplePizzaFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T00:33:30.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-04T00:33:30.884Z"
             }
           ]
         }

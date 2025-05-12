@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\PizzaStore.csproj": {}
+    "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\PizzaStore.csproj": {}
   },
   "projects": {
-    "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\PizzaStore.csproj": {
+    "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\PizzaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\PizzaStore.csproj",
+        "projectUniqueName": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\PizzaStore.csproj",
         "projectName": "PizzaStore",
-        "projectPath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\PizzaStore.csproj",
+        "projectPath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\PizzaStore.csproj",
         "packagesPath": "C:\\Users\\ismas\\.nuget\\packages\\",
-        "outputPath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\PizzaStore\\obj\\",
+        "outputPath": "D:\\msys\\home\\ismas\\Documentos\\Proyectos\\DesignPatterns\\C#\\4. PizzaStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Programas (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
